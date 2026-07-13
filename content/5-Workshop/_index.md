@@ -1,5 +1,5 @@
 ---
-title: "Clean Up Resources"
+title: "Workshop"
 date: 2026-06-21
 weight: 5
 chapter: false
