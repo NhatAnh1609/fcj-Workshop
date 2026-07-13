@@ -1,9 +1,9 @@
 ---
 title: "Clean Up Resources"
 date: 2026-06-21
-weight : 6
+weight : 7
 chapter : false
-pre : " <b> 5.6. </b> "
+pre : " <b> 5.7. </b> "
 ---
 
 # Step 6: Clean Up Resources

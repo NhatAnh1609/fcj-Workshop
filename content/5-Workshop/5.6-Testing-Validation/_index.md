@@ -1,9 +1,9 @@
 ---
 title: "System Testing"
 date: 2026-06-21
-weight: 5
+weight: 6
 chapter: false
-pre: " <b> 5.5 </b> "
+pre: " <b> 5.6 </b> "
 ---
 
 # Step 5: Test the System

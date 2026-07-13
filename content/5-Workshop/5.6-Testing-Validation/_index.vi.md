@@ -1,9 +1,9 @@
 ---
 title: "Kiểm thử hệ thống"
 date: 2026-06-21
-weight: 5
+weight: 6
 chapter: false
-pre: " <b> 5.5 </b> "
+pre: " <b> 5.6 </b> "
 ---
 
 # Bước 5: Kiểm thử hệ thống
