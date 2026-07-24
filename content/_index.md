@@ -30,10 +30,10 @@ chapter: false
 
 ### Report Contents
 
-1.  [Worklog](/Worklog/)
-2.  [Proposal](/Proposal/)
-3.  [Published blog posts](/BlogsPosted/)
-4.  [Participated events](/EventParticipated/)
-5.  [Workshop](/Workshop/)
-6.  [Self-evaluation](/Self-evaluation/)
-7.  [Sharing and feedback](/Feedback/)
+1.  [Worklog](/1-Worklog/)
+2.  [Proposal](/2-Proposal/)
+3.  [Published blog posts](/3-BlogsPosted/)
+4.  [Participated events](/4-EventParticipated/)
+5.  [Workshop](/5-Workshop/)
+6.  [Self-evaluation](/6-Self-evaluation/)
+7.  [Sharing and feedback](/7-Feedback/)
